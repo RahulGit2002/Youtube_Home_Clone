@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1312px) {
+    #bottom #bottom-main-content #feilds {
+
+        width: calc(100% - 105px);
+        /* background-color: black; */
+
+    }
+}
+
+@media only screen and (max-width: 1112px){ 
+    #bottom #bottom-main-content #feilds {
+        width: calc(100% - 6rem);
+    }
+}
+
+@media only screen and (max-width: 500px) {
+     #bottom #bottom-main-content #feilds {
+        width: calc(100% - 2.5rem);
+    }
+}
